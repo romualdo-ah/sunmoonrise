@@ -98,11 +98,15 @@ body {
 }
 
 @keyframes luna {
-    from {
-        -webkit-transform: rotate(0deg) translateX(700px) rotate(180deg) scaleY(3) scaleX(3);
+   0% {
+        -webkit-transform: rotate(20deg) translateX(700px) rotate(180deg) scaleY(.5) scaleX(.5);
     }
 
-    to {
+    50% {
+        -webkit-transform: rotate(200deg) translateX(700px) rotate(-180deg) scaleY(2) scaleX(2);
+    }
+
+    100% {
         -webkit-transform: rotate(360deg) translateX(700px) rotate(-360deg) scaleX(.5) scaleY(.5);
     }
 }
