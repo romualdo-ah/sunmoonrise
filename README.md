@@ -5,4 +5,4 @@ A CSS3 animation of Sun and Moon with keyframes, scales, rotations, and translat
 </h3>
 
 
-<a href="romualdo-ah.github.io/sunmoonrise/">🌓Click here to open the page.🌓</a>
+<a href="romualdo-ah.github.io/sunmoonrise" target="_blank">🌓Click here to open the page.🌓</a>
